@@ -56,14 +56,22 @@ const App = () => {
       <YumeHeader />
 
       <div className="flex justify-center my-10 flex-wrap">
-        <div href="" className="h-60 w-60 shadow-md font">
-          <div className="pt-3">このページの使い方</div>
+        <div className="h-60 w-60 shadow-md linkbox">
+          <a href="https://www.ipentec.com"></a>
+          <div className="text-7xl mt-14">📚</div>
+          <div className="pt-5 font-bold text-gray-800">このページの使い方</div>
         </div>
-        <div className="h-60 w-60 shadow-md lg:ml-6">
-          <div className="pt-3">これまでの勉強会内容</div>
+        <div className="h-60 w-60 shadow-md lg:ml-6 linkbox">
+          <a href="https://www.ipentec.com"></a>
+          <div className="text-7xl mt-14">✏️</div>
+          <div className="pt-5 font-bold text-gray-800">
+            これまでの勉強会内容
+          </div>
         </div>
-        <div className="h-60 w-60 shadow-md lg:ml-6">
-          <div className="pt-3">アンケート</div>
+        <div className="h-60 w-60 shadow-md lg:ml-6 linkbox">
+          <a href="https://www.ipentec.com"></a>
+          <div className="text-7xl mt-14">📄</div>
+          <div className="pt-5 font-bold text-gray-800">アンケート</div>
         </div>
       </div>
 

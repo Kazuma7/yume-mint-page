@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/yume-mint-page/static/css/main.2dcc6d11.css",
-    "main.js": "/yume-mint-page/static/js/main.f311f718.js",
+    "main.css": "/yume-mint-page/static/css/main.80b0122d.css",
+    "main.js": "/yume-mint-page/static/js/main.3915248b.js",
     "static/js/787.86860d88.chunk.js": "/yume-mint-page/static/js/787.86860d88.chunk.js",
     "static/media/YumemiGothicBeta.woff": "/yume-mint-page/static/media/YumemiGothicBeta.e1f8c4a1d849700e5b61.woff",
     "static/media/logo.svg": "/yume-mint-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/yume-mint-page/index.html",
-    "main.2dcc6d11.css.map": "/yume-mint-page/static/css/main.2dcc6d11.css.map",
-    "main.f311f718.js.map": "/yume-mint-page/static/js/main.f311f718.js.map",
+    "main.80b0122d.css.map": "/yume-mint-page/static/css/main.80b0122d.css.map",
+    "main.3915248b.js.map": "/yume-mint-page/static/js/main.3915248b.js.map",
     "787.86860d88.chunk.js.map": "/yume-mint-page/static/js/787.86860d88.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dcc6d11.css",
-    "static/js/main.f311f718.js"
+    "static/css/main.80b0122d.css",
+    "static/js/main.3915248b.js"
   ]
 }

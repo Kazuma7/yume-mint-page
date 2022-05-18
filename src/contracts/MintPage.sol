@@ -21,14 +21,6 @@ contract studyjoin is ERC721URIStorage, Ownable {
     constructor () ERC721 ("YumeWeb3Study","YWS") {}
 
     function tokenURI(uint256 tokenId) public view virtual override returns (string memory) {
-        // bytes memory url;
-
-        // if(revealFlg){
-        //     url = secretURL;
-        // }
-        // else{
-        //     url = baseURL;
-        // }
 
         bytes memory json = abi.encodePacked(
             '{',
